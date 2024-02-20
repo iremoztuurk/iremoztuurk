@@ -6,7 +6,7 @@
 **<div align="center">ML/DL Enthusiast sorcerer of the biomedical engineers dynasty 🧝‍♂️✨ (nowadays they can make magic with codes)</div>**  
   
 
-- *🔮 Currently working on PyTorch and PL/SQL*  
+- *🔮 Currently working on PyTorch, OpenCV and PL/SQL*  
   
 
 - *📔 Currently learning medical image processing and relational database managament*    
