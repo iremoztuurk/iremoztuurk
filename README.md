@@ -1,15 +1,15 @@
 </div>
 
-### ***<div align="center">Hi 👋, I'm Irem from the Kingdom of Lothric 🏰🗡️🐉</div>***  
+### <div align="center">✩₊˚.⋆ Hi, I'm Irem ⋆⁺₊✧</div>  
   
 
-**<div align="center">ML/DL Enthusiast sorcerer of the biomedical engineers dynasty 🧝‍♂️✨ (nowadays they can make magic with codes)</div>**  
+**<div align="center">👩🏽‍💻 ML/DL enthusiast biomedical engineering senior year student </div>**  
   
-
-- *🔮 Currently working on PyTorch, OpenCV and PL/SQL*  
+✨ Working on PL/SQL, Pytorch and Keras 
   
+🧠 Currently learning ARM based embedded softwares (STM32)    
 
-- *📔 Currently learning medical image processing and relational database managament*    
+ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ ʕ•͡-•ʔ
 </div>  
 
 <h4 align="left">Languages and Tools:</h4>
