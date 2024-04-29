@@ -4,7 +4,7 @@
   
 
 **<div align="center">👩🏽‍💻 ML/DL enthusiast biomedical engineering senior year student </div>**  
-##### ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  ʕ•͡-•ʔ  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+<h4 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  ʕ•͡-•ʔ  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h4>
   
 ✨ Working on PL/SQL, Pytorch and Keras 
   
