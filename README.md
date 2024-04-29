@@ -4,12 +4,12 @@
   
 
 **<div align="center">👩🏽‍💻 ML/DL enthusiast biomedical engineering senior year student </div>**  
+##### ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  ʕ•͡-•ʔ  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
   
 ✨ Working on PL/SQL, Pytorch and Keras 
   
 🧠 Currently learning ARM based embedded softwares (STM32)    
 
-### ദ്ദി ˉ͈̀꒳ˉ͈́ )✧  ʕ•͡-•ʔ  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 </div>  
 
 <h4 align="left">Languages and Tools:</h4>
